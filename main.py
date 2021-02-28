@@ -6,3 +6,4 @@ print(numbers)
 
 cubes=[number*number*number for number in numbers]
 print(f"liczby podniesione do potengi 3 {cubes}")
+print("potegowanie")
