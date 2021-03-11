@@ -11,3 +11,4 @@ print("jesce cos")
 print("jusz wystarczy")_
 
 print("znowu w grze 2")
+print("robimy zmiany do nowego fila")
