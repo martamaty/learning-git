@@ -10,3 +10,4 @@ print("potegowanie")
 print("jesce cos")
 print("jusz wystarczy")_
 
+print("znowu w grze 2")
