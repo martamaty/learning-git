@@ -9,4 +9,4 @@ print(f"liczby podniesione do potengi 3 {cubes}")
 print("potegowanie")
 print("jesce cos")
 print("jusz wystarczy")_
-print("wznowu w grze")
+
